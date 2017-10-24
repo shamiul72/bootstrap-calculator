@@ -28,3 +28,6 @@
   font-weight: bold;
   font-size: 25px;
 }
+.btn-danger,btn-primary{
+  width:26.5% !important;
+}
